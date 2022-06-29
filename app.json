@@ -3,7 +3,7 @@
     "description": "Dual core.",
     "env": { 
     "PASSWORD": {
-        
+
             "description": "PASSWORD"
             "value": "password"
     }
